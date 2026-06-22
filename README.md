@@ -18,10 +18,14 @@ Currently pursuing Product Management with Applied AI (MASAI x IIT Roorkee) and 
 Smart Parking Marketplace for Kumaon Tourism
 
 **Deliverables**
+## Project Documents
 
-* Product Requirements Document (PRD)
-* Launch Strategy
-* Interactive Demo
+- [PRD](./ParkKumaon_PRD_v2.pdf)
+- [Launch Strategy](./ParkKumaon_Launch_Strategy.pdf)
+
+## Live Demo
+🔗 https://attachment-manager--Navdeep18.replit.app
+Note: If the demo is inactive, please contact me and I can reactivate it.
 
 ###  Local Assured Commerce
 
