@@ -70,3 +70,4 @@ Creator & Live Commerce Integration
 
 * LinkedIn: [www.linkedin.com/in/navdeep-singh-bisht-75908a228](http://www.linkedin.com/in/navdeep-singh-bisht-75908a228)
 * Email: [navdeepsinghbisht135@gmail.com](mailto:navdeepsinghbisht135@gmail.com)
+* GitHub: [https://github.com/navdeepsinghbisht135-cmd]
