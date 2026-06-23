@@ -20,7 +20,7 @@ Smart Parking Marketplace for Kumaon Tourism
 **Deliverables**
 ## Project Documents
 
-- [PRD](./ParkKumaon_PRD_v2.pdf)
+- [Product Requirement Document](./ParkKumaon_PRD_v2.pdf)
 - [Launch Strategy](./ParkKumaon_Launch_Strategy.pdf)
 
 ## Live Demo
@@ -32,10 +32,12 @@ Note: If the demo is inactive, please contact me and I can reactivate it.
 Hybrid Online-Offline Electronics Marketplace
 
 **Deliverables**
+### Project Documents
 
-* PRD
-* Launch Strategy
-* Wireframes
+- [Product Requirement documet](./Local_Assured_Commerce_PRD.pdf) 
+- [Launch Strategy](./Local_Assured_Commerce_Launch_Strategy.pdf)
+### Wireframes
+- [Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
 
 ###  Jio OnePass
 
