@@ -34,7 +34,7 @@ Hybrid Online-Offline Electronics Marketplace
 **Deliverables**
 ### Project Documents
 
-- [Product Requirement documet](./Local_Assured_Commerce_PRD.pdf) 
+- [Product Requirement Documet](./Local_Assured_Commerce_PRD.pdf) 
 - [Launch Strategy](./Local_Assured_Commerce_Launch_Strategy.pdf)
 ### Wireframes
 - [Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
@@ -44,9 +44,9 @@ Hybrid Online-Offline Electronics Marketplace
 Unified Loyalty Ecosystem for Jio
 
 **Deliverables**
-
-* PRD
-* Launch Strategy
+###Project Documents
+- [Product Requirement Document](./Jio_OnePass_PRD.pdf)
+- [Launch Strategy](./Jio_OnePass_launch_strategy.pdf)
 
 ###  M-Live
 
