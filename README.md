@@ -1,75 +1,97 @@
-# Navdeep Singh Bisht - Product Management Portfolio
+# Navdeep Singh Bisht – Product Management Portfolio
 
 Aspiring Product Manager with 2+ years of experience in stakeholder coordination, problem solving, and program management.
 
 Currently pursuing Product Management with Applied AI (MASAI x IIT Roorkee) and building end-to-end product case studies across marketplaces, AI, SaaS, and commerce.
 
-## Focus Areas
+---
 
-* Marketplace Products
-* AI-Powered Products
-* Consumer Technology
-* Product Strategy
+## 🎯 Focus Areas
 
-## Featured Projects
+- Marketplace Products  
+- AI-Powered Products  
+- Consumer Technology  
+- Product Strategy  
 
-###  ParkKumaon
+---
 
+## 📌 Featured Projects
+
+---
+
+# 🅰️ ParkKumaon
 Smart Parking Marketplace for Kumaon Tourism
 
-**Deliverables**
-## Project Documents
-
+### 📄 Project Documents
 - [Product Requirement Document](./ParkKumaon_PRD_v2.pdf)
 - [Launch Strategy](./ParkKumaon_Launch_Strategy.pdf)
 
-## Live Demo
-🔗 https://attachment-manager--Navdeep18.replit.app
-Note: If the demo is inactive, please contact me and I can reactivate it.
+### 🔗 Live Demo
+https://attachment-manager--Navdeep18.replit.app
 
-###  Local Assured Commerce
+---
 
-Hybrid Online-Offline Electronics Marketplace
+# 🅱️ Local Assured Commerce
+Hybrid Online–Offline Electronics Marketplace
 
-**Deliverables**
-### Project Documents
-
-- [Product Requirement Documet](./Local_Assured_Commerce_PRD.pdf) 
+### 📄 Project Documents
+- [Product Requirement Document](./Local_Assured_Commerce_PRD.pdf)
 - [Launch Strategy](./Local_Assured_Commerce_Launch_Strategy.pdf)
-### Wireframes
-- [Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
 
-###  Jio OnePass
+### 🎨 Wireframes
+- [View Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
 
+---
+
+# 🅲 Jio OnePass
 Unified Loyalty Ecosystem for Jio
 
-**Deliverables**
-###Project Documents
+### 📄 Project Documents
 - [Product Requirement Document](./Jio_OnePass_PRD.pdf)
-- [Launch Strategy](./Jio_OnePass_launch_strategy.pdf)
+- [Launch Strategy](./Jio_OnePass_Launch_Strategy.pdf)
 
-###  M-Live
+---
 
+# 🅳 M-Live
 Creator & Live Commerce Integration
 
-**Deliverables**
+### 📄 Deliverables
+- PRD (Coming Soon)
+- Launch Strategy (Coming Soon)
 
-* PRD
-* Launch Strategy
+---
 
-## Skills
+## 🧠 Skills
 
-* Product Discovery
-* User Research
-* PRD Writing
-* Product Strategy
-* Feature Prioritization
-* Metrics Definition
-* Go-to-Market Planning
-* Stakeholder Management
+- Product Discovery  
+- User Research  
+- PRD Writing  
+- Product Strategy  
+- Feature Prioritization  
+- Metrics Definition  
+- Go-to-Market Planning  
+- Stakeholder Management  
 
-## Contact
+---
 
-* LinkedIn: [www.linkedin.com/in/navdeep-singh-bisht-75908a228](http://www.linkedin.com/in/navdeep-singh-bisht-75908a228)
-* Email: [navdeepsinghbisht135@gmail.com](mailto:navdeepsinghbisht135@gmail.com)
-* GitHub: https://github.com/navdeepsinghbisht135-cmd
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/navdeep-singh-bisht-75908a228  
+- Email: navdeepsinghbisht135@gmail.com  
+- GitHub: https://github.com/navdeepsinghbisht135-cmd  
+
+---
+
+## ⚠️ Disclaimer
+
+All projects are independent product case studies created for learning and portfolio purposes. They are not affiliated with any mentioned companies.
+
+---
+
+## ⭐ Portfolio Highlight
+
+This portfolio demonstrates:
+- End-to-end product thinking  
+- Real-world problem solving  
+- Marketplace + AI + Commerce understanding  
+- Structured PRD & GTM execution  
