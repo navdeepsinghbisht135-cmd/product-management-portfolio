@@ -23,8 +23,8 @@ Currently pursuing Product Management with Applied AI (MASAI x IIT Roorkee) and 
 Smart Parking Marketplace for Kumaon Tourism
 
 ### 📄 Project Documents
-- [Product Requirement Document](./ParkKumaon_PRD_v2.pdf)
-- [Launch Strategy](./ParkKumaon_Launch_Strategy.pdf)
+- [Product Requirement Document](./Parkkumaon/ParkKumaon_PRD_v2.pdf)
+- [Launch Strategy](./ParkKumaon/ParkKumaon_Launch_Strategy.pdf)
 
 ### 🔗 Live Demo
 https://attachment-manager--Navdeep18.replit.app
@@ -35,8 +35,8 @@ https://attachment-manager--Navdeep18.replit.app
 Hybrid Online–Offline Electronics Marketplace
 
 ### 📄 Project Documents
-- [Product Requirement Document](./Local_Assured_Commerce_PRD.pdf)
-- [Launch Strategy](./Local_Assured_Commerce_Launch_Strategy.pdf)
+- [Product Requirement Document](./Local-Assured-Commerce/Local_Assured_Commerce_PRD.pdf)
+- [Launch Strategy](./Local-Assured-Commerce/Local_Assured_Commerce_Launch_Strategy.pdf)
 
 ### 🎨 Wireframes
 - [View Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
@@ -47,8 +47,8 @@ Hybrid Online–Offline Electronics Marketplace
 Unified Loyalty Ecosystem for Jio
 
 ### 📄 Project Documents
-- [Product Requirement Document](./Jio_OnePass_PRD.pdf)
-- [Launch Strategy](./Jio_OnePass_Launch_Strategy.pdf)
+- [Product Requirement Document](./Jio_OnePass/Jio_OnePass_PRD.pdf)
+- [Launch Strategy](./Jio_OnePass/Jio_OnePass_Launch_Strategy.pdf)
 
 ---
 
@@ -56,8 +56,8 @@ Unified Loyalty Ecosystem for Jio
 Creator & Live Commerce Integration
 
 ### Project Document
-- [Product Requirement Document](./Myntra_MLive_PRD-v2.pdf)
-- [Launch Strategy](./Myntra_MLive_Launch_Strategy.pdf)
+- [Product Requirement Document](./M-Live_project_folder/Myntra_MLive_PRD-v2.pdf)
+- [Launch Strategy](./M-Live_project_folder/Myntra_MLive_Launch_Strategy.pdf)
 
 ---
 
