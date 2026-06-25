@@ -80,7 +80,7 @@ Creator & Live Commerce Integration
 
 ## 🌐 Portfolio & Resume
 
-📂 Portfolio: [https://docs.google.com/forms/d/e/1FAIpQLSfC1ri7lujgLsoAYeIYqfkSEynQ014MvB8ktogTqUy5qzwpew/viewform?usp=publish-editor]
+📂 Portfolio: [https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link]
 
 [📄 Resume:](https://github.com/navdeepsinghbisht135-cmd/product-management-portfolio/blob/main/Navdeep_Singh_Bisht_Resume.pdf/Navdeep_Singh_Bisht_Resume%20(1).pdf)
 
