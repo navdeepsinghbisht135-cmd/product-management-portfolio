@@ -55,9 +55,9 @@ Unified Loyalty Ecosystem for Jio
 # 🅳 M-Live
 Creator & Live Commerce Integration
 
-### 📄 Deliverables
-- PRD (Coming Soon)
-- Launch Strategy (Coming Soon)
+### Project Document
+- [Product Requirement Document](./Myntra_MLive_PRD-v2.pdf)
+- [Launch Strategy](./Myntra_MLive_Launch_Strategy.pdf)
 
 ---
 
