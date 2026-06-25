@@ -4,12 +4,16 @@ Aspiring Product Manager with 2+ years of experience in stakeholder coordination
 
 Currently pursuing Product Management with Applied AI (MASAI x IIT Roorkee) and building end-to-end product case studies across marketplaces, AI, SaaS, and commerce.
 
+---
+
 ## 🎯 Focus Areas
 
 - Marketplace Products  
 - AI-Powered Products  
 - Consumer Technology  
 - Product Strategy  
+
+---
 
 ## 📌 Featured Projects
 
@@ -23,6 +27,8 @@ Smart Parking Marketplace for Kumaon Tourism
 ### 🔗 Live Demo
 https://attachment-manager--Navdeep18.replit.app
 
+---
+
 # 🅱️ Local Assured Commerce
 Hybrid Online–Offline Electronics Marketplace
 
@@ -33,6 +39,8 @@ Hybrid Online–Offline Electronics Marketplace
 ### 🎨 Wireframes
 - [View Wireframes](https://miro.com/app/board/uXjVG9k7dkg=/?share_link_id=532683802978)
 
+---
+
 # 🅲 Jio OnePass
 Unified Loyalty Ecosystem for Jio
 
@@ -40,12 +48,16 @@ Unified Loyalty Ecosystem for Jio
 - [Product Requirement Document](./Jio_Onepass/Jio_OnePass_PRD.pdf)
 - [Launch Strategy](./Jio_Onepass/Jio_OnePass_Launch_Strategy.pdf)
 
+---
+
 # 🅳 M-Live
 Creator & Live Commerce Integration
 
 ### Project Document
-- [Product Requirement Document](./M-Live20%project20%folder/Myntra_MLive_PRD-v2.pdf)
-- [Launch Strategy](./M-Live20%project20%folder/Myntra_MLive_Launch_Strategy.pdf)
+- [Product Requirement Document](https://github.com/navdeepsinghbisht135-cmd/product-management-portfolio/blob/main/M-Live%20project%20folder/Myntra_MLive_PRD-v2.pdf)
+- [Launch Strategy](https://github.com/navdeepsinghbisht135-cmd/product-management-portfolio/blob/main/M-Live%20project%20folder/Myntra_MLive_Launch_Strategy.pdf)
+
+---
 
 ## 🧠 Skills
 
