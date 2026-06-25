@@ -82,7 +82,7 @@ Creator & Live Commerce Integration
 
 📂 Portfolio: [https://docs.google.com/forms/d/e/1FAIpQLSfC1ri7lujgLsoAYeIYqfkSEynQ014MvB8ktogTqUy5qzwpew/viewform?usp=publish-editor]
 
-[📄 Resume:](
+[📄 Resume:](https://github.com/navdeepsinghbisht135-cmd/product-management-portfolio/blob/main/Navdeep_Singh_Bisht_Resume.pdf/Navdeep_Singh_Bisht_Resume%20(1).pdf)
 
 ---
 
