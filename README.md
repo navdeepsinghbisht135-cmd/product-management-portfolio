@@ -78,6 +78,12 @@ Creator & Live Commerce Integration
 - Email: navdeepsinghbisht135@gmail.com  
 - GitHub: https://github.com/navdeepsinghbisht135-cmd  
 
+## 🌐 Portfolio & Resume
+
+📂 Portfolio: [https://docs.google.com/forms/d/e/1FAIpQLSfC1ri7lujgLsoAYeIYqfkSEynQ014MvB8ktogTqUy5qzwpew/viewform?usp=publish-editor]
+
+[📄 Resume:](
+
 ---
 
 ## ⚠️ Disclaimer
