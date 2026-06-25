@@ -56,8 +56,8 @@ Unified Loyalty Ecosystem for Jio
 Creator & Live Commerce Integration
 
 ### Project Document
-- [Product Requirement Document](./M-Live project folder/Myntra_MLive_PRD-v2.pdf)
-- [Launch Strategy](./M-Live project folder/Myntra_MLive_Launch_Strategy.pdf)
+- [Product Requirement Document](./M-Live20%project20%folder/Myntra_MLive_PRD-v2.pdf)
+- [Launch Strategy](./M-Live20%project20%folder/Myntra_MLive_Launch_Strategy.pdf)
 
 ---
 
