@@ -47,8 +47,8 @@ Hybrid Online–Offline Electronics Marketplace
 Unified Loyalty Ecosystem for Jio
 
 ### 📄 Project Documents
-- [Product Requirement Document](./Jio_OnePass/Jio_OnePass_PRD.pdf)
-- [Launch Strategy](./Jio_OnePass/Jio_OnePass_Launch_Strategy.pdf)
+- [Product Requirement Document](./Jio_Onepass/Jio_OnePass_PRD.pdf)
+- [Launch Strategy](./Jio_Onepass/Jio_OnePass_Launch_Strategy.pdf)
 
 ---
 
